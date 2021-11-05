@@ -1,0 +1,101 @@
+_id,sourceId,targetId,productId,message,createdAt,msgStatus,priceFixed
+1,260,264,1,varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus,1/20/2021,Seen,8721.11
+2,257,469,2,faucibus accumsan odio curabitur convallis duis consequat dui nec nisi,5/15/2021,Seen,7758.63
+3,89,40,3,vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus,11/18/2020,Unseen,9660.76
+4,344,476,4,urna pretium nisl ut volutpat sapien arcu sed augue aliquam,10/29/2020,Unseen,9536.81
+5,119,42,5,nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget,1/31/2021,Seen,4311.22
+6,75,185,6,vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget,5/11/2021,Unseen,3307.79
+7,13,79,7,felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec,1/8/2021,Seen,8966.62
+8,86,365,8,risus dapibus augue vel accumsan tellus nisi eu orci mauris,1/30/2021,Unseen,1773.82
+9,213,76,9,lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate,11/20/2020,Seen,403.75
+10,133,426,10,eu mi nulla ac enim in tempor turpis nec euismod,11/5/2020,Seen,477.1
+11,12,447,11,ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum,9/19/2020,Unseen,8473.7
+12,262,375,12,phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus,6/13/2021,Seen,9493.42
+13,350,318,13,ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula,3/11/2021,Seen,8090.3
+14,421,297,14,vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at,7/15/2021,Seen,801.06
+15,154,120,15,nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas,3/2/2021,Unseen,1221.95
+16,379,267,16,vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis,9/22/2020,Unseen,8726.27
+17,493,78,17,non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia,4/17/2021,Unseen,8706.43
+18,168,493,18,sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis,10/7/2020,Seen,5911.98
+19,478,428,19,praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit,7/22/2021,Seen,5955.69
+20,248,466,20,purus phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor,3/27/2021,Unseen,6842.76
+21,97,310,21,ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque,6/3/2021,Seen,4425.06
+22,374,475,22,faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor,9/1/2021,Unseen,5633.41
+23,108,36,23,id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus,3/14/2021,Unseen,7023.23
+24,33,229,24,lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat,12/26/2020,Unseen,4787.75
+25,153,138,25,vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia,10/11/2020,Unseen,9815.07
+26,32,285,26,elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla,2/25/2021,Unseen,6089.59
+27,264,19,27,varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt,11/4/2020,Unseen,8702.55
+28,218,193,28,volutpat dui maecenas tristique est et tempus semper est quam pharetra magna,9/28/2020,Seen,4451.89
+29,389,370,29,in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu,3/12/2021,Unseen,8323.39
+30,493,360,30,rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper,1/31/2021,Seen,3673.18
+31,176,36,31,et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent,5/22/2021,Unseen,6865.65
+32,375,423,32,ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in,4/29/2021,Seen,2384.05
+33,169,177,33,nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla,11/2/2020,Unseen,829.93
+34,339,451,34,augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet,11/2/2020,Unseen,7599.61
+35,104,432,35,ligula sit amet eleifend pede libero quis orci nullam molestie nibh in,11/8/2020,Unseen,3690.36
+36,420,490,36,ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor,4/10/2021,Unseen,6902.99
+37,124,64,37,cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus,5/8/2021,Seen,4954.66
+38,175,360,38,adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien,6/19/2021,Seen,216.03
+39,81,260,39,ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse,3/11/2021,Seen,6703.4
+40,27,100,40,luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec,1/5/2021,Unseen,2504.53
+41,2,385,41,quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis a pede posuere,10/29/2020,Seen,4026.51
+42,434,297,42,ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed,3/12/2021,Unseen,8794.02
+43,185,157,43,sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan,4/5/2021,Unseen,7139.17
+44,248,161,44,fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit,8/25/2021,Unseen,9073.42
+45,423,9,45,cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi,8/12/2021,Unseen,6893.07
+46,479,295,46,consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam,9/14/2020,Unseen,6238.18
+47,499,181,47,pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam,1/18/2021,Seen,5553.25
+48,82,432,48,posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien,5/14/2021,Seen,4085.94
+49,396,27,49,at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis,12/5/2020,Unseen,8005.37
+50,182,89,50,integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus,11/19/2020,Unseen,1370.13
+51,324,286,51,elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus,3/1/2021,Unseen,3530.5
+52,348,316,52,posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor,2/12/2021,Unseen,1542.36
+53,266,315,53,nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac,12/14/2020,Seen,3036.26
+54,260,373,54,lectus suspendisse potenti in eleifend quam a odio in hac habitasse,12/10/2020,Seen,4789.87
+55,395,400,55,sed magna at nunc commodo placerat praesent blandit nam nulla integer,8/10/2021,Unseen,1927.53
+56,286,201,56,purus eu magna vulputate luctus cum sociis natoque penatibus et magnis,4/12/2021,Unseen,6612.84
+57,77,293,57,nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis,1/23/2021,Seen,2619.56
+58,482,308,58,natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum,3/4/2021,Seen,2326.63
+59,250,394,59,rutrum nulla tellus in sagittis dui vel nisl duis ac nibh,8/21/2021,Seen,1729.22
+60,50,373,60,a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices,4/12/2021,Seen,9645.61
+61,284,181,61,tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit,10/28/2020,Seen,7831.97
+62,464,443,62,cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque,4/26/2021,Unseen,1378.62
+63,481,253,63,odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue,9/30/2020,Unseen,6743.84
+64,74,342,64,consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer,2/7/2021,Seen,8322.57
+65,345,234,65,venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu,5/7/2021,Unseen,7797.75
+66,19,137,66,rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta,3/28/2021,Unseen,5089.54
+67,495,259,67,adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula,8/5/2021,Unseen,7238.68
+68,227,455,68,erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis,6/1/2021,Seen,4318.11
+69,29,238,69,risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum,2/20/2021,Seen,682.26
+70,176,21,70,parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa,8/15/2021,Seen,5799.65
+71,473,464,71,dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes,8/26/2021,Seen,5774.68
+72,453,412,72,justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut,8/5/2021,Unseen,137.36
+73,313,31,73,et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien,7/17/2021,Seen,6925.86
+74,173,188,74,turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at,12/14/2020,Unseen,3445.69
+75,443,135,75,cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at,2/4/2021,Seen,7821.48
+76,465,13,76,sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras,9/27/2020,Unseen,3198.83
+77,384,56,77,mi in porttitor pede justo eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea,2/3/2021,Unseen,1576.98
+78,39,402,78,penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus,12/15/2020,Unseen,6105.99
+79,208,267,79,augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit,1/1/2021,Seen,9248.44
+80,410,152,80,turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor,10/3/2020,Unseen,4683.42
+81,338,11,81,sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at,10/6/2020,Seen,4830.21
+82,421,427,82,quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus,12/5/2020,Seen,1879.64
+83,304,282,83,faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit,9/1/2021,Seen,8087.65
+84,163,380,84,duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor,5/23/2021,Unseen,1709.74
+85,223,476,85,suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi,10/9/2020,Unseen,8094.12
+86,431,66,86,pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa,12/18/2020,Seen,8427.74
+87,221,96,87,viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est,12/11/2020,Seen,8197.04
+88,285,441,88,aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio,11/23/2020,Seen,7025.14
+89,67,257,89,in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula,2/14/2021,Seen,5372.39
+90,363,459,90,massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst morbi,6/5/2021,Seen,5215.84
+91,303,240,91,augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed,10/15/2020,Unseen,6461.42
+92,346,461,92,blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu est congue elementum in,11/26/2020,Seen,8205.44
+93,304,63,93,commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem,10/1/2020,Seen,4159.69
+94,479,201,94,consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis,9/18/2020,Unseen,2336.61
+95,119,72,95,integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id,5/18/2021,Unseen,9527.92
+96,115,465,96,at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id,1/4/2021,Unseen,4257.72
+97,84,422,97,in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis,12/18/2020,Unseen,2765.44
+98,386,354,98,curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar,5/24/2021,Unseen,8857.69
+99,219,378,99,vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet,10/21/2020,Unseen,624.99
+100,265,153,100,tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem,8/21/2021,Seen,2658.88
